@@ -1,0 +1,14 @@
+D:\workspace\dotnet\Colecciones\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.exe
+D:\workspace\dotnet\Colecciones\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.deps.json
+D:\workspace\dotnet\Colecciones\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.runtimeconfig.json
+D:\workspace\dotnet\Colecciones\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.runtimeconfig.dev.json
+D:\workspace\dotnet\Colecciones\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.dll
+D:\workspace\dotnet\Colecciones\Colecciones\bin\Debug\netcoreapp3.1\Colecciones.pdb
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.csproj.AssemblyReference.cache
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.AssemblyInfoInputs.cache
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.AssemblyInfo.cs
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.dll
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.pdb
+D:\workspace\dotnet\Colecciones\Colecciones\obj\Debug\netcoreapp3.1\Colecciones.genruntimeconfig.cache
